@@ -1,0 +1,15 @@
+﻿<?php header("refresh:15;url=waiting_act.html"); ?>
+<!DOCTYPE html>
+
+<html dir="rtl" lang="ar">
+  <head>
+    <link href="stylesheets/style.css" type="text/css" rel="stylesheet">
+    <title>مستخدم غير مسجل</title>
+  </head>
+  <body>
+  <div class="container bg curved">
+    <h1 style="color: red;">نأسف لعدم اتمام الطلب حيث انك غير مشترك</h1>
+    <h3>من فضلك توجه الى كشك التسجيل لتسجيل اشتراكك في بيئة الحياة الثانية التعليمية</h3>
+  </div>
+  </body>
+</html>
